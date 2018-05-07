@@ -64,3 +64,4 @@ target/
 notMNIST_large*
 notMNIST_small*
 .ipynb_checkpoints/
+*.pickle
